@@ -13,6 +13,9 @@ The AI Job Fit Evaluator is a Streamlit application that analyzes resumes agains
 - **AI-Powered Analysis**: Utilizes the Groq LLM to analyze the resume against the job description.
 - **Comprehensive Evaluation**: Provides a job fit score, key strengths, potential gaps, and a final recommendation.
 
+## Demo
+
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
 
 ## Installation
 
