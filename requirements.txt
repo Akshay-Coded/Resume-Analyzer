@@ -3,3 +3,4 @@ requests
 langchain_groq
 tiktoken
 streamlit
+frontend
