@@ -1,1 +1,5 @@
 fitz
+requests
+langchain_groq
+tiktoken
+streamlit
