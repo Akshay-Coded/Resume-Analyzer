@@ -15,7 +15,7 @@ The AI Job Fit Evaluator is a Streamlit application that analyzes resumes agains
 
 ## Demo
 
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
+<video src="Demo.mp4" width="320" height="240" controls></video>
 
 ## Installation
 
